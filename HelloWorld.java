@@ -6,22 +6,22 @@
  */ 
 public class HelloWorld {
 
-   private String sTitle = null;
+   private String _sTitle = null;
 
    public void HelloWorld() {
-       sTitle = "Hello World";
+       _sTitle = "Hello World";
    }
 
-   public void setTitle(String _title) {
-       sTitle = _title;
+   public void setTitle(String title) {
+       _sTitle = title;
    }
 
    public String getTitle() {
-      return sTitle;
+      return _sTitle;
    }
 
 	public static void main(String[] arguments) {
-		System.out.println("Hello World!!!");
+		System.out.println(_sTitle + "!!!");
 		
 		Quote quote = Quote.getRandomQuote();
 		if(quote != null) {
