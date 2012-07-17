@@ -1,0 +1,21 @@
+
+	HELLO WORLD 
+	Algemene documentatie
+
+
+	Wat is HelloWorld?
+
+HelloWorld is een programma dat de tekst "Hello World" of een variant daarvan
+op het scherm toont. Daarnaast kan het een willekeurige hoeveelheid dingen
+doen, uitsluitend gelimiteerd door de creativiteit van de ontwikkelaar.
+
+
+	Wat doet HelloWord?
+
+Zoals beschreven in de vorige paragraaf toont het een stukje tekst. Voor het
+achterhalen van de overige functionaliteit valt aan te raden de broncode te
+raadplegen, omdat die meestal recenter zal zijn dan deze documentatie.
+
+Momenteel (17 juli 2012, Git commit SHA1 ID:
+3702215e93babb2badcdfeb7a39f945401181c67) is de overige functionaliteit:
+ - Geef een random citaat-van-de-dag weer
