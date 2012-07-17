@@ -1,7 +1,7 @@
  
 public class HelloWorld {
 	public static void main(String[] arguments) {
-		System.out.println("Hello World!");
+		System.out.println("Hello World!!!");
 		
 		Quote quote = Quote.getRandomQuote();
 		if(quote != null) {
