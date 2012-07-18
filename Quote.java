@@ -3,6 +3,8 @@ import java.util.*;
 
 /**
  * Represents a quotation/citation, and can load random quotes from a file.
+ * 
+ * Not tested for thread-safety, so probably not thread-safe!
  */
 public class Quote {
 	
